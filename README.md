@@ -7,3 +7,5 @@ After following the steps outlined in Tim's document, you can then import this r
 <ol><li>1-agentSbomWsGuid</li><li>2-agentSbomProjGuid</li><li>3-agentSbomCreate</li></ol>
 
 The results will be the generation of an agent-SCA SBOM in CycloneDx format
+
+There are also REST API calls to create a Collection.
